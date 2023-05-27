@@ -1,0 +1,15 @@
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\bin\Debug\net7.0\B1.exe
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\bin\Debug\net7.0\B1.deps.json
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\bin\Debug\net7.0\B1.runtimeconfig.json
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\bin\Debug\net7.0\B1.dll
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\bin\Debug\net7.0\B1.pdb
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.csproj.AssemblyReference.cache
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.AssemblyInfoInputs.cache
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.AssemblyInfo.cs
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.csproj.CoreCompileInputs.cache
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.dll
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\refint\B1.dll
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.pdb
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\B1.genruntimeconfig.cache
+e:\SUMMER_2023\C#\csharp_day2_27-4\B1\obj\Debug\net7.0\ref\B1.dll
